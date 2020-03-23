@@ -1,0 +1,13 @@
+{
+    "labs": [
+        {
+            "DigitalCurrencySHA.ipynb": "了解什么是HASH加密/链加密过程"
+        },
+        {
+            "DigitalCurrencyPoW.ipynb": "快速了解工作量证明过程"
+        },
+        {
+            "DigitalCurrencyPriceShow.ipynb": "非法定数字货币的价格查看分析及展示"
+        }
+    ]
+}
